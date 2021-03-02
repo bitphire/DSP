@@ -1,17 +1,11 @@
 <?php include('header.html'); ?>
 <!-- Operations Section -->
 <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="operations">
-    <h2 class="w3-text-light-grey">OPERATIONS</h2>
+    <h2 class="w3-text-light-grey">CREW LEADER</h2>
     <hr style="width:200px" class="w3-opacity">
-    <p>We are the people in the field measuring, digging, installing, fixing, removing, and whatever else that needs to be done. We call Hotels home during the week and tempt fate on the side of dangerous highways to make life better for others.
-    </p>
-    <h3 class="w3-padding-16 w3-text-light-grey">Are you a:</h3>
-    <p class="w3-wide"><a href="fieldtech.php">Field Tech</a> - One who measures for new locations and inspects down structures</p>
-
-    <p class="w3-wide"><a href="crewleader.php">Crew Leader</a> - One who takes responsibility for making sure things get done</p>
-
-    <p class="w3-wide"><a href="grunts.php">Grunt Worker</a> - The backbone of operations.</p>
-
+    <p>This is some fancy words!</p>
+    <h3 class="w3-padding-16 w3-text-light-grey">Resources:</h3>
+    <p class="w3-wide"><a href="llc.php">Logo Layout Calculator</a> - Get the measurements on where to place Legends, Dividers, and Logos</p>
 </div>
 <!-- End Operations Section -->
 
@@ -29,6 +23,4 @@
     </p>
 </div>
 <!-- End Internal Section -->
-
 <?php include('footer.html'); ?>
-
